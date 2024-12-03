@@ -1,2 +1,5 @@
 **/.DS_Store
 .firebase/
+.firebase/hosting..cache
+**/.firebase
+**/.firebaserc
